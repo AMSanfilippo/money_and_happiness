@@ -1,6 +1,5 @@
 
 import os
-os.chdir('Dropbox/code/money_and_happiness')
 
 import pandas as pd
 import numpy as np
